@@ -2,7 +2,7 @@
 A basic website that receives user data and stores it using mongo DB
 User Data Visualization Repository
 
-Welcome to the User Data Application
+Welcome to the User Data Application, 
 This repository contains various files and scripts for visualizing and analyzing user demographic and financial information. Below is a detailed description of each file in the repository:
 
 Flask Application User Data.py: This Python script implements a Flask application that interacts with user data. It likely includes routes and functions for retrieving and processing user data.
